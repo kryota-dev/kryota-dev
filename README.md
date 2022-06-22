@@ -1,37 +1,37 @@
 ## Hello👋🏻
 
 <p align="left">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/ryota-k0827/ryota-k0827/">
+  <a href="https://github.com/ryota-k0827/ryota-k0827/">
     <img src="https://komarev.com/ghpvc/?username=ryota-k0827&style=for-the-badge" height="20px" alt="Profile Views" />
   </a>
-  <a target="_blank" rel="noopener noreferrer" href="http://twitter.com/ryotaneko827">
+  <a href="http://twitter.com/ryotaneko827">
     <img height="20" src="https://img.shields.io/twitter/follow/ryotaneko827?label=Twitter&logo=twitter&style=for-the-badge" height="20px" alt="Twitter Followers" />
   </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/ryota-k0827?tab=followers">
+  <a href="https://github.com/ryota-k0827?tab=followers">
     <img height="20" src="https://img.shields.io/github/followers/ryota-k0827?label=follow&logo=github&style=for-the-badge" height="20px" alt="GitHub Followers" />
   </a>
   <!-- Like のバッジ -->
-  <a target="_blank" rel="noopener noreferrer" href="https://zenn.dev/dani_rk">
+  <a href="https://zenn.dev/dani_rk">
     <img src="https://zenn.badge.nikaera.com/s/dani_rk/likes?style=for-the-badge" alt="Zenn Likes" height="20px" />
   </a>
 
   <!-- Articles のバッジ -->
-  <!-- <a target="_blank" rel="noopener noreferrer" href="https://zenn.dev/dani_rk/articles">
+  <!-- <a href="https://zenn.dev/dani_rk/articles">
     <img src="https://zenn.badge.nikaera.com/s/dani_rk/articles?style=for-the-badge" alt="Zenn Articles" height="20px" />
   </a> -->
 
   <!-- Followers のバッジ -->
-  <a target="_blank" rel="noopener noreferrer" href="https://zenn.dev/dani_rk/followers">
+  <a href="https://zenn.dev/dani_rk/followers">
     <img src="https://zenn.badge.nikaera.com/s/dani_rk/followers?style=for-the-badge" alt="Zenn Followers" height="20px" />
   </a>
 
   <!-- Books のバッジ -->
-  <!-- <a target="_blank" rel="noopener noreferrer" href="https://zenn.dev/dani_rk/books">
+  <!-- <a href="https://zenn.dev/dani_rk/books">
     <img src="https://zenn.badge.nikaera.com/s/dani_rk/books?style=for-the-badge" alt="Zenn Books" height="20px" />
   </a> -->
 
   <!-- Scraps のバッジ -->
-  <!-- <a target="_blank" rel="noopener noreferrer" href="https://zenn.dev/dani_rk/scraps">
+  <!-- <a href="https://zenn.dev/dani_rk/scraps">
     <img src="https://zenn.badge.nikaera.com/s/dani_rk/scraps?style=for-the-badge" alt="Zenn Scraps" height="20px" />
   </a> -->
 </p>
