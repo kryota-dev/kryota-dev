@@ -21,7 +21,7 @@
   </a> -->
 
   <!-- Followers のバッジ -->
-  <a href="https://zenn.dev/dani_rk/followers">
+  <a href="https://zenn.dev/dani_rk">
     <img src="https://zenn.badge.nikaera.com/s/dani_rk/followers?style=for-the-badge" alt="Zenn Followers" height="20px" />
   </a>
 
