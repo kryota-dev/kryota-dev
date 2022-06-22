@@ -48,10 +48,27 @@
 <a href="#">
   <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=ryota-k0827&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
 </a>
+<br />
+<br />
 
-
-
-<!-- 
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=ryota-k0827&repo=Smartendance&theme=algolia)
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=ryota-k0827&repo=SmartendanceApp&theme=algolia)
- -->
+<p align="left">
+  <a href="#">
+    <img alt="GitHub Profile Summary Cards Details" src="https://raw.githubusercontent.com/ryota-k0827/ryota-k0827/main/profile-summary-card-output/tokyonight/0-profile-details.svg" height="241px" />
+  </a>
+</p>
+<p align="left">
+  <a href="#">
+    <img alt="GitHub Profile Summary Cards Language Repo" src="https://raw.githubusercontent.com/ryota-k0827/ryota-k0827/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="244px" />
+  </a>
+  <a href="#">
+    <img alt="GitHub Profile Summary Cards Language Commit" src="https://raw.githubusercontent.com/ryota-k0827/ryota-k0827/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="244px" />
+  </a>
+</p>
+<p align="left">
+  <a href="#">
+    <img alt="GitHub Profile Summary Cards Stats" src="https://raw.githubusercontent.com/ryota-k0827/ryota-k0827/main/profile-summary-card-output/tokyonight/3-stats.svg" height="244px" />
+  </a>
+  <a href="#">
+    <img alt="GitHub Profile Summary Cards Productive Time" src="https://raw.githubusercontent.com/ryota-k0827/ryota-k0827/main/profile-summary-card-output/tokyonight/4-productive-time.svg" height="244px" />
+  </a>
+</p>
