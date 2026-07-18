@@ -32,3 +32,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/kryota-dev/kryota-dev/main/profile-summary-card-output/jolly/4-productive-time.svg)
+```
+
+    
